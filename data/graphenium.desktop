@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Graphenium Manager
+Comment=Post-install setup for Arch Linux
+Exec=graphenium-manager
+Icon=graphenium-manager
+Terminal=false
+Type=Application
+Categories=System;Settings;
+Keywords=arch;install;setup;
