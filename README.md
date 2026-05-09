@@ -1,7 +1,4 @@
-                          **UNDER CONCONSTRUCTIONT**
-
-
-
+** STILL UNDER CONSTRUCTION**                    
 
 **Graphenium Manager**
 
