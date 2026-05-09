@@ -1,3 +1,8 @@
+                          **UNDER CONCONSTRUCTIONT**
+
+
+
+
 **Graphenium Manager**
 
 A GUI post-install setup tool for vanilla Arch Linux. Install drivers, desktop environments, packages, and AUR/Flatpak helpers without touching the terminal.
