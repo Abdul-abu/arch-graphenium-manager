@@ -30,13 +30,28 @@ Features
 Installation
 
 From AUR
+
+****
+
 paru -S graphenium-manager-git
+
+****
+
 From Source
+
+
 git clone https://github.com/Abdul-abu/arch-graphenium-manager
+
 cd graphenium-manager
+
 makepkg -si
+
+****
+
 Then launch it from your app menu or run:
 graphenium-manager
+
+
 _Note_: Run as your normal user, not with sudo. The app uses `pkexec` for privileged commands.
 
 Usage
